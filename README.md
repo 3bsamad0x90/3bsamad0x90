@@ -67,6 +67,7 @@ A full-feature auction platform with bid tracking and service provider features.
 - [**Multi-Vendor E-Commerce System**]
   <br>
   [**🛍️ Calla App**](https://calla-app.com)
+  [**🛍️ Ahtiyajk Website**](https://ahtiyajk.com/)
   <sub>PHP, Laravel, MySQL, JavaScript, REST APIS </sub>  
   A scalable platform enabling multiple vendors to manage their own stores, products, and orders. Features advanced analytics, secure payments, and a modular architecture.
 
