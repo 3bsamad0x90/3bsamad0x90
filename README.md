@@ -45,7 +45,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on **Backend Developer**
 
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3bsamad0x90&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://streak-stats.demolab.com?user=3bsamad0x90&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3bsamad0x90&theme=github_dark" /> </p>
+
 🔥 Featured Projects
+
 🚚 Samel App
 A mobile app that connects service providers with clients.
 🛠 Built with Laravel, MySQL, and Android/IOS
