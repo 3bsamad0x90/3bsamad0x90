@@ -41,11 +41,22 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- 🔭 I’m currently working on **Restaurant Reservation System**
+- 🔭 I’m currently working on **Auction System**
 - 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on **Backend Developer**
 
+🔥 Featured Projects
+🚚 Samel App
+A mobile app that connects service providers with clients.
+🛠 Built with Laravel, MySQL, and Android/IOS
 
+🛍️ Calla App
+A platform for digital products and services, with wallet, orders, and reviews.
+💻 Laravel, Blade, Vue JS
+
+🏗️ Auction System (Private Repo)
+A full-feature auction platform with bid tracking and service provider features.
+⌛️ Currently in development using Laravel + REST APIs + Node JS
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bsamad0x90&show_icons=true&locale=en&layout=compact" alt="3bsamad0x90" /></p>
 
