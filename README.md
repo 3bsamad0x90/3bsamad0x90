@@ -50,17 +50,34 @@ Here are some ideas to get you started:
 
 🔥 Featured Projects
 
-🚚 Samel App
+
 A mobile app that connects service providers with clients.
 🛠 Built with Laravel, MySQL, and Android/IOS
 
-🛍️ Calla App
+
 A platform for digital products and services, with wallet, orders, and reviews.
 💻 Laravel, Blade, Vue JS
 
-🏗️ Auction System (Private Repo)
+
 A full-feature auction platform with bid tracking and service provider features.
 ⌛️ Currently in development using Laravel + REST APIs + Node JS
+
+## 🚀Last Projects
+
+- [**Multi-Vendor E-Commerce System**]
+  <br>
+  [**🛍️ Calla App**](https://calla-app.com)
+  <sub>PHP, Laravel, MySQL, JavaScript, REST APIS </sub>  
+  A scalable platform enabling multiple vendors to manage their own stores, products, and orders. Features advanced analytics, secure payments, and a modular architecture.
+
+- [**🏗️ Auction System**] (Private Repo)
+  <sub>PHP, Laravel, MySQL, Node.js, Socket.io</sub>  
+  Real-time auction system with live bidding, user authentication, and admin controls. Built for performance and extensibility.
+
+- [**🚚 Samel App**](https://samelapp.co/)
+  <sub>PHP, JavaScript, HTML/CSS and Mobile App Android and IOS </sub>
+  
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bsamad0x90&show_icons=true&locale=en&layout=compact" alt="3bsamad0x90" /></p>
 
